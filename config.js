@@ -60,7 +60,7 @@ global.payment = {
 
 // API Configuration
 global.api = {
-  btch: '_',
+  btch: 'dDPRAmxs',
   rose: '_',
 };
 global.APIs = {
