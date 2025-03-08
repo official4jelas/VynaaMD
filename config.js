@@ -5,21 +5,21 @@ import { fileURLToPath } from 'url';
 // Global Settings
 global.setting = {
   autoclear: false,
-  addReply: true, // Tambahkan balasan dengan thumbnail di pesan
+  addReply: false, // Tambahkan balasan dengan thumbnail di pesan
 };
 
 // Owner Information
 global.owner = [
-  ['6282389924037', 'Pinaa', true],
+  ['6285766450735', 'o?', true],
 ];
 
 // Bot Information
 global.info = {
-  nomerbot: '6283896757956',
-  pairingNumber: '6283896757956',
-  nameown: 'Pinaa',
-  nomerown: '6282389924037',
-  token: 'VynaaAI4m2n1o', // Token harus diisi agar bot dapat berjalan
+  nomerbot: '',
+  pairingNumber: '',
+  nameown: 'o?',
+  nomerown: '6285766450735',
+  token: '7884130330:AAFpbiMVgwCO0MJ66Xx_PJgVfvlWnJhTWDE', // Token harus diisi agar bot dapat berjalan
   packname: 'sticker by',
   author: 'Vynaa Valerie',
   namebot: 'Vynaa AI 10.21',
