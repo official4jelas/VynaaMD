@@ -16,7 +16,7 @@ global.owner = [
 // Bot Information
 global.info = {
   nomerbot: '',
-  pairingNumber: '',
+  pairingNumber: '62857664507350',
   nameown: 'o?',
   nomerown: '6285766450735',
   token: '7884130330:AAFpbiMVgwCO0MJ66Xx_PJgVfvlWnJhTWDE', // Token harus diisi agar bot dapat berjalan
